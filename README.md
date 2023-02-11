@@ -1,5 +1,5 @@
 # Hi there :smile:
-I'm Daniel!<br/>
+I'm Juan Daniel!<br/>
 <br/>
 I'm a Computer Science and Industrial Engineering Student, currently searching for a part-time job in web development!<br/>
 <br/>
